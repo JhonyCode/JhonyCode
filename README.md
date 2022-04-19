@@ -10,7 +10,7 @@ Full-stack web developer
 * 🚀  I'm currently working on [Fitness fast food web](http://fitnessfatfood.com)
 * 🧠  I'm learning Javascript, Python, NodeJS, React, etc.
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Sports and games lover.
+* ⚡  Sports and VideoGames lover.
 
 ### Skills
 
