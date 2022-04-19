@@ -7,7 +7,7 @@ Full-stack web developer
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [Here](http://jonathanmulero.000webhostapp.com/)
 * ✉️  You can contact me at [jhonyganehd@gmail.com](mailto:jhonyganehd@gmail.com)
-* 🚀  I'm currently working on [Fitness fast food](http://fitnessfatfood.com)
+* 🚀  I'm currently working on [Fitness fast food web](http://fitnessfatfood.com)
 * 🧠  I'm learning Javascript, Python, NodeJS, etc.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Sports and games lover.
