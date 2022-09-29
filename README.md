@@ -5,7 +5,7 @@ Full-stack web developer junior
 ------------------------
 
 * 🌍  I'm based in Spain
-* ✉️  You can contact me at [jhonyganehd@gmail.com](mailto:jhonyganehd@gmail.com)  [Linkedin](https://www.linkedin.com/in/jonathan-mulero/)
+* ✉️  You can contact me at [jhonyganehd@gmail.com](mailto:jhonyganehd@gmail.com) or at  [Linkedin](https://www.linkedin.com/in/jonathan-mulero/)
 * 🧠  I'm learning Javascript, Python, NodeJS, React, etc.
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Sports and VideoGames lover.
